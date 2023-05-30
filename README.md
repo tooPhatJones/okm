@@ -14,7 +14,7 @@ Used here, an epiphyte is a relative recomended entry point into the tree of all
 Or in other words a contextless entry point to the tree of knowledge made possible with pattern recognition. 
 For example, learning to drive a car. 
 In a traditional tutorial, you would learn math and chemistry, engineering, and automotive science and then finally after knowing how a car works, learn to drive a car.
-Learning to drive as an epithyte would start with learning to drive and the rest could follow if desired. 
+Learning to drive as an epiphyte would start with learning to drive and the rest could follow if desired. 
 
 Epiphytes are efficient relative to the learners goals when building the foundation takes more effort than starting without context in the middle of the tree.
 Epiphytes have no prerequisites, instead they teach the prerequisites as they go.
