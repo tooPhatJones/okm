@@ -119,7 +119,7 @@ Your tutorial that references other tutorials will be an array, and any time you
 
 
 # the reputation system and best practices for use
-Anyone can publish their opinion about another project or set of projects with metadata in their tree.json
+Anyone contributor can publish their opinion about another project or set of projects with metadata in their tree.json. They just need to make a pull request with their name, make a field with their name, and then add the following metadata fields
 tentative fields are white list, blacklist, and trusted blacklist. 
 whitelist: a list of projects the current project owners think are good/trustworthy. can also be used to over rule or create exceptions for any individual projects you disagree with your trusted blacklister about. 
 blacklist: a list of projects the current project owners think are not good/trustworthy. 
