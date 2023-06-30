@@ -1,0 +1,30 @@
+{
+"tutorialTree":["what is the okm","what is a tutorial epiphyte","what is a trad tutorial",["make as few assuptions about your audience as possible","compound concepts","tutorial planning","illustrative design","low coupleing, high cohesion, and unix philosophy","tutorial + cheatsheet sans reference"],"llms vs the okm","maybe could be used to train llms?","the pub system","inneficiency in trad schools","the 'how' plane of communication","overview of git","root.json metadata rules","nodes defined by line numbers expect in binaries, and what to do with binaries","coordinating edits to collaborative graph projects","optional: stuff","common objections","","","","","","",""],
+"topicDefititions":{
+  "what is the okm":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L1#L5",
+  "what is a tutorial epiphyte":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L7#L28",
+  "what is a trad tutorial":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L30#L35",
+  "make as few assuptions about your audience as possible":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L38#L41",
+  "compound concepts":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#435#L52",
+  "tutorial planning":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L56#L60",
+  "illustrative design":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L63#L75",
+  "low coupleing, high cohesion, and unix philosophy":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L78#L87",
+  "the pub system":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L92#L97",
+  "overview of git":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L99#L106",
+  "root.json metadata rules":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L109#L117",
+  "nodes defined by line numbers expect in binaries, and what to do with binaries":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L134#L140",
+  "coordinating edits to collaborative graph projects":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L143#L145",
+  "optional: stuff":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L147#L149",
+  "common objections":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L151#L160",
+  "llms vs the okm":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L161#L166",
+  "inneficiency in trad schools":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L168#L171",
+  "the 'how' plane of communication":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L173#L181",
+  "maybe could be used to train llms?":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L184",
+  "tutorial + cheatsheet sans reference":"https://github.com/tooPhatJones/okm/blob/main/README.md?plain=1#L186#L193",
+  "":""
+},
+"version":"0",
+"whitelist":[],
+"blacklist":[],
+"trustedBlackList":[]
+}
